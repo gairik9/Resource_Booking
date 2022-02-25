@@ -1,0 +1,5 @@
+-chnage the equipment as dynamic
+-if we want to add another hall
+-privous date should not be booked
+-red color should be displayed on the calendar 
+-home page should be more dynamic
